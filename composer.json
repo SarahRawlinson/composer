@@ -1,0 +1,21 @@
+{
+  "name": "sarahrawlinson/composer",
+  "description": "this is my test project",
+  "type": "library",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sarah Rawlinson",
+      "email": "srrawlinson@hotmail.co.uk"
+    }
+  ],
+  "require": {
+    "php": "^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "tests\\test\\": "tests/test/"
+    }
+  }
+}
