@@ -1,4 +1,5 @@
-﻿
+This is a test for creating a composer library
+
 ```
 
 "repositories": [
